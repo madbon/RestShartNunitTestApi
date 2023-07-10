@@ -22,7 +22,6 @@ namespace RestShartNunitTestApi
         public class SearchResponse
         {
             public int responseCode { get; set; }
-            //public List<Product> products { get; set; }
         }
 
         [Test, Order(0)]
