@@ -27,7 +27,7 @@ API Source:
 
 
 Available Tests
-- TestGet: return All Brands
+- TestGet: return All Brands using Get Method
 - SearchProductTest: Search and return tshirt products using Post Method
 
 
